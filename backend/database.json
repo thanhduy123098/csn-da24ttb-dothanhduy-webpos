@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "barcode": "8934567890123",
+      "name": "Nước suối Lavie",
+      "price": 5000,
+      "stock": 100,
+      "isQuickAdd": false
+    }
+  ],
+  "orders": []
+}
